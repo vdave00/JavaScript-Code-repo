@@ -17,3 +17,16 @@ let val = "";
 let  booleanisLoggedin = Boolean(val);
 console.log(typeof booleanisLoggedin);
 console.log(booleanisLoggedin);
+
+
+// ===== *** Operations **** ======= 
+
+console.log("1" +2);
+// output => 12
+console.log(2+"1");
+// output => 21
+console.log(1+1+2+"2");
+// output => 42
+
+//learn prefix and postfix from mdn ...
+// link to study
